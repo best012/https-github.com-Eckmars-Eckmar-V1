@@ -59,12 +59,12 @@ For detailed information and usage instructions, please contact the project owne
 
 For inquiries and more information, reach out to the project owner.
 
-[https://botdigit.com/Eckmar](https://botdigit.com/user/Eckmar)
+[)
 
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation]().
 
 ## Security Vulnerabilities
 
